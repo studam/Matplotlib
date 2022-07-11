@@ -1,6 +1,6 @@
 # Matplotlib
 The power of plots
-Matplotlib Homework - The Power of Plots
+Matplotlib Challenge - The Power of Plots
 
 Background
 What good is data without a good plot to tell the story?
@@ -92,15 +92,7 @@ How do I add a label to that scatter plot?
 Where would the labels for that scatter plot come from?
 
 
-Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
 
-
-Get help when you need it! There is never any shame in asking. But, as always, ask a specific question. You'll never get a great answer to "I'm lost."
-
-
-
-Rubric
-Unit 5 Rubric - Matplotlib Homework - The Power of Plots
 
 
 References
